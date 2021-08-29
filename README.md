@@ -6,7 +6,7 @@
 - Node Version: 12(LTS)
 - Default Port: 8000
 
-## Application Demo:
+## Application Demo :
 
 ![](https://hrcdn.net/s3_pub/istreet-assets/ypsXP2TV_jJ_W9qOYC4AVw/Screen%20Recording%202020-03-26%20at%202.06.18%20AM.2020-03-26%2002_11_08.gif)
 
